@@ -2,13 +2,13 @@
 "customizations": {
 		"vscode": {
 			"extensions": [
-				"esbenp.prettier-vscode",
+				// "esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight"
 			],
 			"settings": {
-				"editor.fontSize": 30,
-				"terminal.integrated.fontSize": 24,
+				"editor.fontSize": 20,
+				"terminal.integrated.fontSize": 20,
 				"editor.wordWrap": "on"
 			}
 			
