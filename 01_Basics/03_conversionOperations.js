@@ -14,7 +14,13 @@ let booleanIsLoggedIn =Boolean(isLoggedIn);
 // 1=> true,0=>false, ""=>false ,"chaman"=>true
 let someNumber=33;
 let stringNumber =String(someNumber);
-console.log( stringNumber);
+//console.log( stringNumber);
+// **********Operations*********
+// console.log((1 + 2 +"3"));
+// console.log(("1" + 2 +"3"));
+// If you write above code as soon as it readsa string the rest becomes a string and is added to the previous values as string o/p
+console.log(+true);
+
 
 
 
